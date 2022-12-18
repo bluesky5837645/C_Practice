@@ -1,0 +1,5 @@
+project(HELLO)
+add_subdirectory(Ex_1_3_1)
+add_subdirectory(Hw1_15)
+add_subdirectory(Hw1_16)
+add_subdirectory(Hw1_17)

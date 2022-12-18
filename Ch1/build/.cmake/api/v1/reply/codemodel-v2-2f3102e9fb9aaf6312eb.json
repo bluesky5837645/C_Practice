@@ -1,0 +1,131 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Ex_1_3_1",
+					"jsonFile" : "directory-Ex_1_3_1-Debug-eebad266139823dc6861.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Ex_1_3_1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Hw1_15",
+					"jsonFile" : "directory-Hw1_15-Debug-8ef7d7f35244ecada12b.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hw1_15",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Hw1_16",
+					"jsonFile" : "directory-Hw1_16-Debug-8a90b08d76bdfd7a871a.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hw1_16",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "Hw1_17",
+					"jsonFile" : "directory-Hw1_17-Debug-d48ab38c16dda475f585.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hw1_17",
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "HELLO",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Ex_1_3_1::@d1bbcf4b846effc38188",
+					"jsonFile" : "target-Ex_1_3_1-Debug-81fa71768d0d810ad38f.json",
+					"name" : "Ex_1_3_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Hw1_15::@1a83df95a1c4b1f58ac9",
+					"jsonFile" : "target-Hw1_15-Debug-e06cc3e6526f6a9135d2.json",
+					"name" : "Hw1_15",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Hw1_16::@48371e1591927f46a564",
+					"jsonFile" : "target-Hw1_16-Debug-81889214429f2431ba07.json",
+					"name" : "Hw1_16",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "Hw1_17::@d228cf0b24661c6e0144",
+					"jsonFile" : "target-Hw1_17-Debug-4025922e0e8bbbbf46a9.json",
+					"name" : "Hw1_17",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/rong_he/Desktop/CPractice/Ch1/build",
+		"source" : "C:/Users/rong_he/Desktop/CPractice/Ch1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

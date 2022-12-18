@@ -1,0 +1,14 @@
+C:/Users/rong_he/Desktop/CPractice/Ch1/build/CMakeFiles/edit_cache.dir
+C:/Users/rong_he/Desktop/CPractice/Ch1/build/CMakeFiles/rebuild_cache.dir
+C:/Users/rong_he/Desktop/CPractice/Ch1/build/Ex_1_3_1/CMakeFiles/Ex_1_3_1.dir
+C:/Users/rong_he/Desktop/CPractice/Ch1/build/Ex_1_3_1/CMakeFiles/edit_cache.dir
+C:/Users/rong_he/Desktop/CPractice/Ch1/build/Ex_1_3_1/CMakeFiles/rebuild_cache.dir
+C:/Users/rong_he/Desktop/CPractice/Ch1/build/Hw1_15/CMakeFiles/Hw1_15.dir
+C:/Users/rong_he/Desktop/CPractice/Ch1/build/Hw1_15/CMakeFiles/edit_cache.dir
+C:/Users/rong_he/Desktop/CPractice/Ch1/build/Hw1_15/CMakeFiles/rebuild_cache.dir
+C:/Users/rong_he/Desktop/CPractice/Ch1/build/Hw1_16/CMakeFiles/Hw1_16.dir
+C:/Users/rong_he/Desktop/CPractice/Ch1/build/Hw1_16/CMakeFiles/edit_cache.dir
+C:/Users/rong_he/Desktop/CPractice/Ch1/build/Hw1_16/CMakeFiles/rebuild_cache.dir
+C:/Users/rong_he/Desktop/CPractice/Ch1/build/Hw1_17/CMakeFiles/Hw1_17.dir
+C:/Users/rong_he/Desktop/CPractice/Ch1/build/Hw1_17/CMakeFiles/edit_cache.dir
+C:/Users/rong_he/Desktop/CPractice/Ch1/build/Hw1_17/CMakeFiles/rebuild_cache.dir

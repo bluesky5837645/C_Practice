@@ -1,0 +1,57 @@
+[
+{
+  "directory": "C:/Users/rong_he/Desktop/CPractice/Ch2/build/Ex_2_1",
+  "command": "C:/MinGW/bin/gcc.exe   -g -o CMakeFiles/Ex_2_1.dir/main.obj -c C:/Users/rong_he/Desktop/CPractice/Ch2/Ex_2_1/main.c",
+  "file": "C:/Users/rong_he/Desktop/CPractice/Ch2/Ex_2_1/main.c"
+},
+{
+  "directory": "C:/Users/rong_he/Desktop/CPractice/Ch2/build/Hw2_1",
+  "command": "C:/MinGW/bin/gcc.exe   -g -o CMakeFiles/Hw_2_1.dir/main.obj -c C:/Users/rong_he/Desktop/CPractice/Ch2/Hw2_1/main.c",
+  "file": "C:/Users/rong_he/Desktop/CPractice/Ch2/Hw2_1/main.c"
+},
+{
+  "directory": "C:/Users/rong_he/Desktop/CPractice/Ch2/build/Hw2_2",
+  "command": "C:/MinGW/bin/gcc.exe   -g -o CMakeFiles/Hw_2_2.dir/main.obj -c C:/Users/rong_he/Desktop/CPractice/Ch2/Hw2_2/main.c",
+  "file": "C:/Users/rong_he/Desktop/CPractice/Ch2/Hw2_2/main.c"
+},
+{
+  "directory": "C:/Users/rong_he/Desktop/CPractice/Ch2/build/Hw2_3",
+  "command": "C:/MinGW/bin/gcc.exe   -g -o CMakeFiles/Hw_2_3.dir/main.obj -c C:/Users/rong_he/Desktop/CPractice/Ch2/Hw2_3/main.c",
+  "file": "C:/Users/rong_he/Desktop/CPractice/Ch2/Hw2_3/main.c"
+},
+{
+  "directory": "C:/Users/rong_he/Desktop/CPractice/Ch2/build/Hw2_4",
+  "command": "C:/MinGW/bin/gcc.exe   -g -o CMakeFiles/Hw_2_4.dir/main.obj -c C:/Users/rong_he/Desktop/CPractice/Ch2/Hw2_4/main.c",
+  "file": "C:/Users/rong_he/Desktop/CPractice/Ch2/Hw2_4/main.c"
+},
+{
+  "directory": "C:/Users/rong_he/Desktop/CPractice/Ch2/build/Hw2_5",
+  "command": "C:/MinGW/bin/gcc.exe   -g -o CMakeFiles/Hw_2_5.dir/main.obj -c C:/Users/rong_he/Desktop/CPractice/Ch2/Hw2_5/main.c",
+  "file": "C:/Users/rong_he/Desktop/CPractice/Ch2/Hw2_5/main.c"
+},
+{
+  "directory": "C:/Users/rong_he/Desktop/CPractice/Ch2/build/Hw2_6",
+  "command": "C:/MinGW/bin/gcc.exe   -g -o CMakeFiles/Hw_2_6.dir/main.obj -c C:/Users/rong_he/Desktop/CPractice/Ch2/Hw2_6/main.c",
+  "file": "C:/Users/rong_he/Desktop/CPractice/Ch2/Hw2_6/main.c"
+},
+{
+  "directory": "C:/Users/rong_he/Desktop/CPractice/Ch2/build/Hw2_7",
+  "command": "C:/MinGW/bin/gcc.exe   -g -o CMakeFiles/Hw_2_7.dir/main.obj -c C:/Users/rong_he/Desktop/CPractice/Ch2/Hw2_7/main.c",
+  "file": "C:/Users/rong_he/Desktop/CPractice/Ch2/Hw2_7/main.c"
+},
+{
+  "directory": "C:/Users/rong_he/Desktop/CPractice/Ch2/build/Hw2_9",
+  "command": "C:/MinGW/bin/gcc.exe   -g -o CMakeFiles/Hw_2_9.dir/main.obj -c C:/Users/rong_he/Desktop/CPractice/Ch2/Hw2_9/main.c",
+  "file": "C:/Users/rong_he/Desktop/CPractice/Ch2/Hw2_9/main.c"
+},
+{
+  "directory": "C:/Users/rong_he/Desktop/CPractice/Ch2/build/Hw2_10",
+  "command": "C:/MinGW/bin/gcc.exe   -g -o CMakeFiles/Hw_2_10.dir/main.obj -c C:/Users/rong_he/Desktop/CPractice/Ch2/Hw2_10/main.c",
+  "file": "C:/Users/rong_he/Desktop/CPractice/Ch2/Hw2_10/main.c"
+},
+{
+  "directory": "C:/Users/rong_he/Desktop/CPractice/Ch2/build/Hw2_15",
+  "command": "C:/MinGW/bin/gcc.exe   -g -o CMakeFiles/Hw_2_15.dir/main.obj -c C:/Users/rong_he/Desktop/CPractice/Ch2/Hw2_15/main.c",
+  "file": "C:/Users/rong_he/Desktop/CPractice/Ch2/Hw2_15/main.c"
+}
+]

@@ -1,0 +1,1 @@
+add_executable(Hw_2_7 main.c)

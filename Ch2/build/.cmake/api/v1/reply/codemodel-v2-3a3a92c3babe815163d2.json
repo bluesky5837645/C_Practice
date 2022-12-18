@@ -1,0 +1,278 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Ex_2_1",
+					"jsonFile" : "directory-Ex_2_1-Debug-70ad40f26bcc4bd5c872.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Ex_2_1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Hw2_1",
+					"jsonFile" : "directory-Hw2_1-Debug-ca40bf4c3a7a9b1626e7.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hw2_1",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Hw2_2",
+					"jsonFile" : "directory-Hw2_2-Debug-68114c144709754e1c39.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hw2_2",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "Hw2_3",
+					"jsonFile" : "directory-Hw2_3-Debug-e87c0c1f56f2066209fc.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hw2_3",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "Hw2_4",
+					"jsonFile" : "directory-Hw2_4-Debug-5adbb6320a0c79913832.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hw2_4",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "Hw2_5",
+					"jsonFile" : "directory-Hw2_5-Debug-04b82f7e57b320ad26b2.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hw2_5",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "Hw2_6",
+					"jsonFile" : "directory-Hw2_6-Debug-d3d256184c1ecfda7c2f.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hw2_6",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "Hw2_7",
+					"jsonFile" : "directory-Hw2_7-Debug-a052c8cf15185fac19d3.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hw2_7",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "Hw2_9",
+					"jsonFile" : "directory-Hw2_9-Debug-89ced40b122085c7da8a.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hw2_9",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "Hw2_10",
+					"jsonFile" : "directory-Hw2_10-Debug-ff210e3ea2258ec719ad.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hw2_10",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "Hw2_15",
+					"jsonFile" : "directory-Hw2_15-Debug-9c359d63de6ea882b78e.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hw2_15",
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					],
+					"name" : "Ch2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Ex_2_1::@1b34c199efe7b67dbf6b",
+					"jsonFile" : "target-Ex_2_1-Debug-8fc9cc55e0577997f531.json",
+					"name" : "Ex_2_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Hw_2_1::@8eefce49195a7b27d518",
+					"jsonFile" : "target-Hw_2_1-Debug-84257e97cc5518f1e527.json",
+					"name" : "Hw_2_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "Hw_2_10::@8ed2fd959d47e955469d",
+					"jsonFile" : "target-Hw_2_10-Debug-e838be3a66502767fe27.json",
+					"name" : "Hw_2_10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "Hw_2_15::@b3fb0a80d6a1a1000ff0",
+					"jsonFile" : "target-Hw_2_15-Debug-7c770d1d612f562c91e7.json",
+					"name" : "Hw_2_15",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Hw_2_2::@8c3fb1acbd63768450f1",
+					"jsonFile" : "target-Hw_2_2-Debug-199358b0aaf897450d3a.json",
+					"name" : "Hw_2_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "Hw_2_3::@512b0e0b6682e544c084",
+					"jsonFile" : "target-Hw_2_3-Debug-01486b1e901399c69ede.json",
+					"name" : "Hw_2_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Hw_2_4::@8b3a55bc92917fa647f5",
+					"jsonFile" : "target-Hw_2_4-Debug-41ce5665975ade8a6f0a.json",
+					"name" : "Hw_2_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "Hw_2_5::@13bc98bdc214767e7f7a",
+					"jsonFile" : "target-Hw_2_5-Debug-54fe75cba4955d4fc950.json",
+					"name" : "Hw_2_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "Hw_2_6::@d9b2165d5a7fd5407a0e",
+					"jsonFile" : "target-Hw_2_6-Debug-806176f25d5c765c3a89.json",
+					"name" : "Hw_2_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "Hw_2_7::@fde568421372a6ea70f2",
+					"jsonFile" : "target-Hw_2_7-Debug-182e39b663f62fa213f4.json",
+					"name" : "Hw_2_7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "Hw_2_9::@1c79ec233a26d31fd844",
+					"jsonFile" : "target-Hw_2_9-Debug-503e7c27f9e947cb845a.json",
+					"name" : "Hw_2_9",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/rong_he/Desktop/CPractice/Ch2/build",
+		"source" : "C:/Users/rong_he/Desktop/CPractice/Ch2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
